@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![GuFurlanetto's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuFurlanetto&theme=radical&hide=issues,stars,contribs)](https://github.com/GuFurlanetto/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuFurlanetto&theme=radical&layout=compact&hide=php,FreeMaker)](https://github.com/GuFurlanetto/github-readme-stats)
 
 <!--
 **GuFurlanetto/GuFurlanetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
